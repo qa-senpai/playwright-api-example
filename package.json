@@ -2,6 +2,7 @@
   "name": "playwright-learning-dojo-9",
   "version": "1.0.0",
   "main": "index.js",
+  "module": "module",
   "scripts": {},
   "keywords": [],
   "author": "",
